@@ -1,6 +1,6 @@
 # Awesome JavaScript 资源大全中文版 with stars
 
-[awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,019 | 🐛 28 | 📅 2026-07-31 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC 框架和库、模板引擎、数据可视化、时间轴、编辑器等。由「开源前哨」和「前端大全」微信公号团队维护更新。
+[awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,018 | 🐛 29 | 📅 2026-07-31 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC 框架和库、模板引擎、数据可视化、时间轴、编辑器等。由「开源前哨」和「前端大全」微信公号团队维护更新。
 
 ### 本项目的参与者
 
@@ -106,14 +106,14 @@
 
 ## 组件管理器
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,455 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-15：跨应用创建、查找、复用组件（支持 React、Angular、Node.js 等等）的组件管理器
+* [Bit](https://github.com/teambit/bit) ⭐ 18,455 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-16：跨应用创建、查找、复用组件（支持 React、Angular、Node.js 等等）的组件管理器
 
 ## 加载器
 
 JavaScript 模块或加载系统。
 
 * [browserify](https://github.com/substack/node-browserify) ⭐ 14,698 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21：像在 Node.js 一样在浏览器端使用 require() 函数。
-* [systemjs](https://github.com/systemjs/systemjs) ⭐ 13,092 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-14：AMD、CJS（commonJS） 和符合 ES6 规范的模块加载器。
+* [systemjs](https://github.com/systemjs/systemjs) ⭐ 13,091 | 🐛 77 | 🌐 JavaScript | 📅 2026-06-14：AMD、CJS（commonJS） 和符合 ES6 规范的模块加载器。
 * [RequireJS](https://github.com/jrburke/requirejs) ⭐ 12,913 | 🐛 289 | 🌐 JavaScript | 📅 2025-11-30：一种 JavaScript 文件和模块加载器。
 * [SeaJS](https://github.com/seajs/seajs) ⭐ 8,259 | 🐛 157 | 🌐 JavaScript | 📅 2023-07-03：Web 端模块加载器。
 * [HeadJS](https://github.com/headjs/headjs) ⚠️ Archived：HEAD 里只有唯一一个 script 引入。
@@ -126,9 +126,9 @@ JavaScript 模块或加载系统。
 
 ## 打包工具
 
-* [webpack](https://github.com/webpack/webpack) ⭐ 65,980 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-15：为浏览器打包 CommonJs/AMD 模块。
-* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,024 | 🐛 601 | 🌐 JavaScript | 📅 2026-08-12：零配置，超快速 Web 应用打包工具。
-* [Rollup](https://github.com/rollup/rollup) ⭐ 26,301 | 🐛 606 | 🌐 JavaScript | 📅 2026-08-14：下一代 ES6 模块打包工具。
+* [webpack](https://github.com/webpack/webpack) ⭐ 65,973 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-16：为浏览器打包 CommonJs/AMD 模块。
+* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,023 | 🐛 600 | 🌐 JavaScript | 📅 2026-08-16：零配置，超快速 Web 应用打包工具。
+* [Rollup](https://github.com/rollup/rollup) ⭐ 26,304 | 🐛 603 | 🌐 JavaScript | 📅 2026-08-16：下一代 ES6 模块打包工具。
 * [browserify](https://github.com/substack/node-browserify) ⭐ 14,698 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21：Browserify 帮助你在浏览器端使用 require('modules') 打包所有依赖。
 * [Microbundle](https://github.com/developit/microbundle) ⭐ 8,130 | 🐛 102 | 🌐 JavaScript | 📅 2026-02-01：用于小模块的零配置打包工具。
 * [Brunch](https://github.com/brunch/brunch) ⭐ 6,758 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-19：只需要简单声明式配置的快速前端 Webapp 构建工具。
@@ -146,11 +146,11 @@ JavaScript 模块或加载系统。
 
 ### 框架
 
-* [jest](https://github.com/facebook/jest) ⭐ 45,469 | 🐛 184 | 🌐 TypeScript | 📅 2026-08-15：能无痛使用的 JavaScript 单元测试框架。
+* [jest](https://github.com/facebook/jest) ⭐ 45,469 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-16：能无痛使用的 JavaScript 单元测试框架。
 * [mocha](https://github.com/mochajs/mocha) ⭐ 22,904 | 🐛 257 | 🌐 JavaScript | 📅 2026-08-15：适用于 node.js 和浏览器的简易、灵活、有趣的 JavaScript 测试框架。
 * [ava](https://github.com/avajs/ava) ⭐ 20,833 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17：🚀 未来感十足的测试运行器。
-* [jasmine](https://github.com/jasmine/jasmine) ⭐ 15,825 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-08：简单无 DOM 的 JavaScript 测试框架。
-* [TestCafe](https://github.com/DevExpress/testcafe) ⭐ 9,909 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-12：适用于现代 Web 应用开发栈的自动化浏览器测试工具。
+* [jasmine](https://github.com/jasmine/jasmine) ⭐ 15,824 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-16：简单无 DOM 的 JavaScript 测试框架。
+* [TestCafe](https://github.com/DevExpress/testcafe) ⭐ 9,908 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-12：适用于现代 Web 应用开发栈的自动化浏览器测试工具。
 * [Protractor](https://github.com/angular/protractor) ⚠️ Archived：适用于 AngularJS 应用的端到端测试框架。
 * [tape](https://github.com/substack/tape) ⭐ 5,798 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-18：适用于 Node 和浏览器的 tap 生成器测试套件。
 * [qunit](https://github.com/jquery/qunit) ⭐ 4,035 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-28：一个易用的 JavaScript 单元测试框架。
@@ -160,9 +160,9 @@ JavaScript 模块或加载系统。
 
 ### 断言
 
-* [react testing library](https://github.com/kentcdodds/react-testing-library) ⭐ 19,642 | 🐛 82 | 🌐 JavaScript | 📅 2026-04-02：简单完备的 React DOM 测试工具，引导更好的测试实践。
+* [react testing library](https://github.com/kentcdodds/react-testing-library) ⭐ 19,643 | 🐛 82 | 🌐 JavaScript | 📅 2026-04-02：简单完备的 React DOM 测试工具，引导更好的测试实践。
 * [Sinon.JS](https://github.com/sinonjs/sinon) ⭐ 9,757 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-05：对 JavaScript 进行 spies、stubs 和 mock 测试。
-* [chai](https://github.com/chaijs/chai) ⭐ 8,266 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-10：适用于 node.js 和浏览器的 BDD / TDD 断言框架，并能搭配任意测试框架使用。
+* [chai](https://github.com/chaijs/chai) ⭐ 8,267 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-10：适用于 node.js 和浏览器的 BDD / TDD 断言框架，并能搭配任意测试框架使用。
 * [proxyquire](https://github.com/thlorenz/proxyquire) ⭐ 2,746 | 🐛 12 | 🌐 JavaScript | 📅 2025-08-13：Node.js 依赖桩代码。
 * [expect.js](https://github.com/Automattic/expect.js) ⭐ 2,098 | 🐛 86 | 🌐 JavaScript | 📅 2023-01-14：简约的、适用于 Node.js 和浏览器端的 BDD 风格的断言工具。
 * [Enzyme](http://airbnb.io/enzyme/index.html)：Enzyme 是一款 React 专用的 JavaScript 测试工具，让断言、操作和遍历 React 组件之后输出更加容易。
@@ -175,54 +175,54 @@ JavaScript 模块或加载系统。
 
 ### 运行器
 
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,459 | 🐛 260 | 🌐 TypeScript | 📅 2026-08-14：谷歌 Chrome 团队出品，无界面 Chrome （Chromium） Node.js API 环境。
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,463 | 🐛 266 | 🌐 TypeScript | 📅 2026-08-16：谷歌 Chrome 团队出品，无界面 Chrome （Chromium） Node.js API 环境。
 * [phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived：无界面的 Webkit 运行时（已暂停开发——译者注）。
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) ⭐ 11,958 | 🐛 333 | 🌐 JavaScript | 📅 2026-05-25：基于 node.js 和 selenium webdriver 的图形界面自动化测试框架。
 * [karma](https://github.com/karma-runner/karma) ⭐ 11,957 | 🐛 402 | 🌐 JavaScript | 📅 2026-06-10：一款超级棒的 JavaScript 测试运行器（多浏览器测试场景下的 JavaScript 执行工具——译者注）。
-* [webdriverio](https://github.com/webdriverio/webdriverio) ⭐ 9,817 | 🐛 353 | 🌐 TypeScript | 📅 2026-08-15：下一代 Web 驱动的 Node.js 自动化测试框架。
+* [webdriverio](https://github.com/webdriverio/webdriverio) ⭐ 9,816 | 🐛 353 | 🌐 TypeScript | 📅 2026-08-15：下一代 Web 驱动的 Node.js 自动化测试框架。
 * [casperjs](https://github.com/n1k0/casperjs) ⚠️ Archived：基于 PhantomJS 和 Slimer JS 的导航脚本和测试工具。
 * [zombie](https://github.com/assaf/zombie) ⚠️ Archived：基于 node.js 的超快速、全栈且无图形界面的浏览器的测试工具。
-* [intern](https://github.com/theintern/intern) ⭐ 4,344 | 🐛 142 | 🌐 TypeScript | 📅 2023-03-14：下一代 JavaScript 代码测试栈。
-* [taiko](https://github.com/getgauge/taiko) ⭐ 3,673 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-03：用于自动测试 Chromium 内核浏览器的简易 Node.js API 库。
+* [intern](https://github.com/theintern/intern) ⭐ 4,345 | 🐛 142 | 🌐 TypeScript | 📅 2023-03-14：下一代 JavaScript 代码测试栈。
+* [taiko](https://github.com/getgauge/taiko) ⭐ 3,672 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-03：用于自动测试 Chromium 内核浏览器的简易 Node.js API 库。
 * [slimerjs](https://github.com/laurentj/slimerjs) ⭐ 2,998 | 🐛 164 | 🌐 JavaScript | 📅 2023-03-09：一个内核为 Gecko 的类似 PhantomJS 工具。
 * [totoro](https://github.com/totorojs/totoro) ⭐ 562 | 🐛 4 | 🌐 JavaScript | 📅 2022-02-12：一个简单可靠的跨浏览器测试工具。
 * [yolpo](http://www.yolpo.com/)：在浏览器逐句执行的 JavaScript 解释器。
 
 ## QA 工具
 
-* [Prettier](https://github.com/prettier/prettier) ⭐ 52,202 | 🐛 1,427 | 🌐 JavaScript | 📅 2026-08-15：Prettier 是一款固执（严格）的代码格式化工具。
-* [husky](https://github.com/typicode/husky) ⭐ 35,271 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19：防止劣质的 git commit、git push 等 git 操作。
+* [Prettier](https://github.com/prettier/prettier) ⭐ 52,204 | 🐛 1,425 | 🌐 JavaScript | 📅 2026-08-16：Prettier 是一款固执（严格）的代码格式化工具。
+* [husky](https://github.com/typicode/husky) ⭐ 35,274 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19：防止劣质的 git commit、git push 等 git 操作。
 * [JavaScript Standard Style](https://github.com/feross/standard) ⭐ 29,427 | 🐛 130 | 🌐 JavaScript | 📅 2025-07-11：固执、无需配置的代码风格规范、检查器和格式化工具。
-* [ESLint](https://github.com/eslint/eslint) ⭐ 27,456 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-13：一款完全可插拔的 JavaScript 模板检测和报告工具。
-* [JSHint](https://github.com/jshint/jshint/) ⭐ 9,075 | 🐛 465 | 🌐 JavaScript | 📅 2025-02-13：JSHint 是一款用于检测 JavaScript 代码错误和潜在问题的工具。
-* [JS-Beautifier](https://github.com/beautify-web/js-beautify) ⭐ 8,986 | 🐛 433 | 🌐 JavaScript | 📅 2026-08-11：格式化 JavaScript 代码的 npm 脚手架和库。
+* [ESLint](https://github.com/eslint/eslint) ⭐ 27,458 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-16：一款完全可插拔的 JavaScript 模板检测和报告工具。
+* [JSHint](https://github.com/jshint/jshint/) ⭐ 9,074 | 🐛 465 | 🌐 JavaScript | 📅 2025-02-13：JSHint 是一款用于检测 JavaScript 代码错误和潜在问题的工具。
+* [JS-Beautifier](https://github.com/beautify-web/js-beautify) ⭐ 8,986 | 🐛 434 | 🌐 JavaScript | 📅 2026-08-11：格式化 JavaScript 代码的 npm 脚手架和库。
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived：JavaScript 代码风格检测工具。
 * [JSLint ](https://github.com/douglascrockford/JSLint) ⭐ 3,658 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-02：高标准、严要求且固执的代码质量工具，旨在保持语言的精华部分。
-* [jsinspect](https://github.com/danielstjules/jsinspect) ⭐ 3,584 | 🐛 25 | 🌐 JavaScript | 📅 2024-03-20：检测复制粘贴和结构类似的代码。
+* [jsinspect](https://github.com/danielstjules/jsinspect) ⭐ 3,583 | 🐛 25 | 🌐 JavaScript | 📅 2024-03-20：检测复制粘贴和结构类似的代码。
 * [jsfmt](https://github.com/rdio/jsfmt) ⭐ 1,681 | 🐛 35 | 🌐 JavaScript | 📅 2020-04-04：格式化、搜索和改写 JavaScript。
 * [buddy.js](https://github.com/danielstjules/buddy.js) ⭐ 884 | 🐛 4 | 🌐 JavaScript | 📅 2019-11-16：检测 JavaScript 代码里的魔术数字。
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) ⭐ 126 | 🐛 2 | 🌐 JavaScript | 📅 2021-01-25：构建阶段前端 JavaScript 代码与评估器。
 
 ## MVC 框架和库
 
-* [vue](https://github.com/vuejs/vue) ⭐ 210,213 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10：一套用于构建用户界面的渐进式框架。
-* [react-native](https://github.com/facebook/react-native) ⭐ 126,354 | 🐛 1,052 | 🌐 C++ | 📅 2026-08-15：一个用 React 构建原生应用的框架。
-* [svelte](https://github.com/sveltejs/svelte) ⭐ 87,955 | 🐛 1,123 | 🌐 JavaScript | 📅 2026-08-14：svelte 是一种构建 web 应用的新方式。svelte 编译器将声明式组件编译成高效的 JavaScript 代码，并且会像外科手术那样更新 DOM。
+* [vue](https://github.com/vuejs/vue) ⭐ 210,216 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10：一套用于构建用户界面的渐进式框架。
+* [react-native](https://github.com/facebook/react-native) ⭐ 126,352 | 🐛 1,051 | 🌐 C++ | 📅 2026-08-16：一个用 React 构建原生应用的框架。
+* [svelte](https://github.com/sveltejs/svelte) ⭐ 87,972 | 🐛 1,132 | 🌐 JavaScript | 📅 2026-08-16：svelte 是一种构建 web 应用的新方式。svelte 编译器将声明式组件编译成高效的 JavaScript 代码，并且会像外科手术那样更新 DOM。
 * [angular.js](https://github.com/angular/angular.js) ⚠️ Archived：专为 web 应用设计的增强型 HTML 。
 * [meteor](https://github.com/meteor/meteor) ⭐ 44,812 | 🐛 411 | 🌐 JavaScript | 📅 2026-08-14：一个超简单的、数据库无处不在的、只传输数据的纯 JavaScript web 框架。
 * [preact](https://github.com/developit/preact) ⭐ 38,819 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-13：体积仅 3kb 的用 ES6 api 实现的 React 替代方案。（和 React 一样基于）组件和虚拟 DOM。
-* [Alpine.js](https://github.com/alpinejs/alpine) ⭐ 31,853 | 🐛 4 | 🌐 HTML | 📅 2026-08-14：Alpine.js 以更低的代价实现了像 Vue 和 React 这类大型架构一样的响应式和声明式的特性。
-* [backbone](https://github.com/jashkenas/backbone) ⭐ 28,102 | 🐛 64 | 🌐 JavaScript | 📅 2026-07-29：web 应用模型层、视图层、数据集合和事件的骨架。
-* [nativescript](https://github.com/NativeScript/NativeScript) ⭐ 25,605 | 🐛 832 | 🌐 TypeScript | 📅 2026-08-15：构建真正的跨平台原生 JavaScript 应用，支持 iOS 和 Android 。
-* [ember.js](https://github.com/emberjs/ember.js) ⭐ 22,569 | 🐛 259 | 🌐 TypeScript | 📅 2026-08-15：一个旨在创建非凡 web 应用的 JavaScript 框架。
-* [hyperapp](https://github.com/hyperapp/hyperapp) ⭐ 19,200 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20：体积仅 1kb 的前端应用构件库。
+* [Alpine.js](https://github.com/alpinejs/alpine) ⭐ 31,857 | 🐛 4 | 🌐 HTML | 📅 2026-08-14：Alpine.js 以更低的代价实现了像 Vue 和 React 这类大型架构一样的响应式和声明式的特性。
+* [backbone](https://github.com/jashkenas/backbone) ⭐ 28,101 | 🐛 64 | 🌐 JavaScript | 📅 2026-07-29：web 应用模型层、视图层、数据集合和事件的骨架。
+* [nativescript](https://github.com/NativeScript/NativeScript) ⭐ 25,604 | 🐛 832 | 🌐 TypeScript | 📅 2026-08-15：构建真正的跨平台原生 JavaScript 应用，支持 iOS 和 Android 。
+* [ember.js](https://github.com/emberjs/ember.js) ⭐ 22,569 | 🐛 260 | 🌐 TypeScript | 📅 2026-08-16：一个旨在创建非凡 web 应用的 JavaScript 框架。
+* [hyperapp](https://github.com/hyperapp/hyperapp) ⭐ 19,201 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20：体积仅 1kb 的前端应用构件库。
 * [inferno](https://github.com/infernojs/inferno) ⭐ 16,452 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-12：🔥 一款用于构建现代用户界面的超级快速、类似 React 的 JS 库。
-* [feathers](https://github.com/feathersjs/feathers) ⭐ 15,263 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-14：专为未来应用设计的极简主义实时 JavaScript 库。
-* [riot](https://github.com/riot/riot) ⭐ 14,914 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-06：轻量级类 React 库。
-* [mithril.js](https://github.com/lhorie/mithril.js) ⭐ 14,506 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）
+* [feathers](https://github.com/feathersjs/feathers) ⭐ 15,265 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-14：专为未来应用设计的极简主义实时 JavaScript 库。
+* [riot](https://github.com/riot/riot) ⭐ 14,915 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-06：轻量级类 React 库。
+* [mithril.js](https://github.com/lhorie/mithril.js) ⭐ 14,491 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）
 * [knockout](https://github.com/knockout/knockout) ⭐ 10,556 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25：Knockout 让使用 JavaScript 创建响应式富 UI 更加容易。
 * [marionette](https://github.com/marionettejs/backbone.marionette) ⭐ 7,035 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-05：一个 Backbone.js 的复合应用程序库，旨在简化大型 JavaScript 应用结构。
-* [ractive](https://github.com/ractivejs/ractive) ⭐ 5,914 | 🐛 74 | 🌐 JavaScript | 📅 2024-05-22：新一代 DOM 操作。
+* [ractive](https://github.com/ractivejs/ractive) ⭐ 5,913 | 🐛 74 | 🌐 JavaScript | 📅 2024-05-22：新一代 DOM 操作。
 * [derby](https://github.com/derbyjs/derby) ⭐ 4,705 | 🐛 23 | 🌐 TypeScript | 📅 2024-10-24：让编写实时和协同应用更简单的 MVC 框架，能够同时在 Node.js 和浏览器运行。
   * [derby-awesome](https://github.com/russll/awesome-derby) ⭐ 14 | 🐛 0 | 📅 2014-08-26：很棒的 derby 组件集合。
 * [spine](https://github.com/spine/spine) ⭐ 3,693 | 🐛 36 | 🌐 JavaScript | 📅 2020-04-04：轻量级 JavaScript 应用 MVC 框架。
@@ -243,13 +243,13 @@ JavaScript 模块或加载系统。
 
 ## 基于 Node 的 CMS 框架
 
-* [Strapi](https://github.com/strapi/strapi) ⭐ 72,928 | 🐛 540 | 🌐 TypeScript | 📅 2026-08-14：开源无界面的 Node.js CMS 系统，可轻松定制个性化接口。
-* [Ghost](https://github.com/tryghost/Ghost) ⭐ 54,777 | 🐛 131 | 🌐 JavaScript | 📅 2026-08-15：简单、强大的发布平台。
+* [Strapi](https://github.com/strapi/strapi) ⭐ 72,939 | 🐛 542 | 🌐 TypeScript | 📅 2026-08-14：开源无界面的 Node.js CMS 系统，可轻松定制个性化接口。
+* [Ghost](https://github.com/tryghost/Ghost) ⭐ 54,785 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-16：简单、强大的发布平台。
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ⭐ 12,399 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-01：拥有实时的架构和设计的响应式 CMS。
-* [KeystoneJS](https://github.com/keystonejs/keystone) ⭐ 9,939 | 🐛 142 | 🌐 TypeScript | 📅 2026-08-11：强大的 CMS 和 Web 应用框架。
+* [KeystoneJS](https://github.com/keystonejs/keystone) ⭐ 9,942 | 🐛 142 | 🌐 TypeScript | 📅 2026-08-11：强大的 CMS 和 Web 应用框架。
 * [Apostrophe](https://github.com/punkave/apostrophe) ⭐ 4,599 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-15：提供内容编辑和基本服务的 CMS。
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) ⭐ 1,567 | 🐛 62 | 🌐 JavaScript | 📅 2021-12-09：一个 CMS 和博客平台。
-* [Factor](https://github.com/fiction-com/factor) ⭐ 1,465 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-16：一款 JavaScript CMS。
+* [Factor](https://github.com/fiction-com/factor) ⭐ 1,464 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-16：一款 JavaScript CMS。
 * [Cody](https://github.com/jcoppieters/cody) ⭐ 680 | 🐛 8 | 🌐 JavaScript | 📅 2025-08-06：拥有所见即所得编辑器的 CMS。
 * [We.js](https://github.com/wejs/we/) ⭐ 212 | 🐛 27 | 🌐 JavaScript | 📅 2022-12-30：适用于实时应用、网站或博客的框架。
 * [Nodizecms](https://github.com/nodize/nodizecms) ⚠️ Archived：为 CoffeeScript 爱好者准备的 CMS。
@@ -260,9 +260,9 @@ JavaScript 模块或加载系统。
 
 *模板引擎用于执行字符串插值。*
 
-* [Pug](https://github.com/pugjs/pug) ⭐ 21,854 | 🐛 333 | 🌐 JavaScript | 📅 2026-03-13：健壮的、优雅且功能丰富的 nodejs 模板引擎。`（曾用名：Jade）`
-* [handlebars.js](https://github.com/wycats/handlebars.js/) ⭐ 18,670 | 🐛 114 | 🌐 JavaScript | 📅 2026-06-24：Mustache 模板语言的扩展。
-* [mustache.js](https://github.com/janl/mustache.js) ⭐ 16,722 | 🐛 120 | 🌐 JavaScript | 📅 2024-06-14：JavaScript 最精简的 {{mustaches}} 模板
+* [Pug](https://github.com/pugjs/pug) ⭐ 21,853 | 🐛 333 | 🌐 JavaScript | 📅 2026-03-13：健壮的、优雅且功能丰富的 nodejs 模板引擎。`（曾用名：Jade）`
+* [handlebars.js](https://github.com/wycats/handlebars.js/) ⭐ 18,669 | 🐛 114 | 🌐 JavaScript | 📅 2026-06-24：Mustache 模板语言的扩展。
+* [mustache.js](https://github.com/janl/mustache.js) ⭐ 16,721 | 🐛 120 | 🌐 JavaScript | 📅 2024-06-14：JavaScript 最精简的 {{mustaches}} 模板
 * [marko](https://github.com/marko-js/marko) ⭐ 14,405 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-15：基于 HTML 快速轻量的模板引擎，支持异步、流、自定义标签，支持 CommonJS 模块作为编译后输出，适用于 Node.js 和浏览器。
 * [EJS](https://github.com/mde/ejs) ⭐ 8,117 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-10：高效的 JavaScript 模板。
 * [hogan.js](https://github.com/twitter/hogan.js) ⭐ 5,124 | 🐛 38 | 🌐 JavaScript | 📅 2023-04-10：是 Mustache 模板语言的编译器。
@@ -287,33 +287,33 @@ JavaScript 模块或加载系统。
 
 Web 数据可视化工具
 
-* [three.js](https://github.com/mrdoob/three.js) ⭐ 114,523 | 🐛 372 | 🌐 JavaScript | 📅 2026-08-15：JavaScript 3D 库。
-* [d3](https://github.com/mbostock/d3) ⭐ 113,458 | 🐛 20 | 🌐 Shell | 📅 2026-05-28：一款 JavaScript 数据可视化库，使用 HTML、SVG 和 Canvas 技术展现数据。
+* [three.js](https://github.com/mrdoob/three.js) ⭐ 114,551 | 🐛 368 | 🌐 JavaScript | 📅 2026-08-16：JavaScript 3D 库。
+* [d3](https://github.com/mbostock/d3) ⭐ 113,460 | 🐛 20 | 🌐 Shell | 📅 2026-05-28：一款 JavaScript 数据可视化库，使用 HTML、SVG 和 Canvas 技术展现数据。
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) ⭐ 7,397 | 🐛 131 | 🌐 TypeScript | 📅 2022-05-31：更简洁和拥有更规范的数据图表布局优化算法的库。
 * [Chart.js](https://github.com/nnnick/Chart.js) ⭐ 67,646 | 🐛 579 | 🌐 JavaScript | 📅 2026-05-27：简单的基于 `<canvas>` 标签的 HTML5 图表库。
-* [Echarts](https://github.com/ecomfe/echarts) ⭐ 67,077 | 🐛 1,560 | 🌐 TypeScript | 📅 2026-08-04：企业级图表库。
-* [fabric.js](https://github.com/kangax/fabric.js) ⭐ 31,385 | 🐛 466 | 🌐 TypeScript | 📅 2026-08-08：JavaScript Canvas 库，实现 SVG 与 Canvas 相互解析。
-* [recharts](https://github.com/recharts/recharts) ⭐ 27,504 | 🐛 446 | 🌐 TypeScript | 📅 2026-08-12：基于 React 和 d3 ，重新定义图标库。
-* [BabylonJS](https://github.com/BabylonJS/Babylon.js) ⭐ 25,932 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-14：一个基于 HTML5 和 WebGL 的 3D 游戏的框架。
+* [Echarts](https://github.com/ecomfe/echarts) ⭐ 67,081 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-08-04：企业级图表库。
+* [fabric.js](https://github.com/kangax/fabric.js) ⭐ 31,387 | 🐛 466 | 🌐 TypeScript | 📅 2026-08-08：JavaScript Canvas 库，实现 SVG 与 Canvas 相互解析。
+* [recharts](https://github.com/recharts/recharts) ⭐ 27,507 | 🐛 443 | 🌐 TypeScript | 📅 2026-08-16：基于 React 和 d3 ，重新定义图标库。
+* [BabylonJS](https://github.com/BabylonJS/Babylon.js) ⭐ 25,935 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-14：一个基于 HTML5 和 WebGL 的 3D 游戏的框架。
 * [Frappe Charts](https://github.com/frappe/charts) ⭐ 15,086 | 🐛 145 | 🌐 JavaScript | 📅 2025-07-02：GitHub 驱动，为 web 设计的简易、现代且零依赖的 SVG 图形库。
 * [paper.js](https://github.com/paperjs/paper.js) ⭐ 15,063 | 🐛 429 | 🌐 JavaScript | 📅 2024-07-23：矢量图形脚本的瑞士军刀，利用 HTML5 Canvas 将脚本-图表转换移植到 JavaScript 和浏览器。
-* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,135 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14：一个致力于图形绘画的 JavaScript 库。
+* [sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,139 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-16：一个致力于图形绘画的 JavaScript 库。
 * [svg.js](https://github.com/wout/svg.js) ⭐ 11,819 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-04：一个轻量级的 SVG 操作和动画库。
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) ⭐ 11,271 | 🐛 347 | 🌐 JavaScript | 📅 2024-01-12：JavaScript 矢量库。
 * [trianglify](https://github.com/qrohlf/trianglify) ⭐ 10,088 | 🐛 12 | 🌐 JavaScript | 📅 2025-05-12：基于 d3.js 的低聚风格背景图片生成器。
 * [c3](https://github.com/masayuki0812/c3) ⭐ 9,349 | 🐛 771 | 🌐 JavaScript | 📅 2026-08-05：基于 d3 的可复用图表库。
 * [two.js](https://github.com/jonobr1/two.js) ⭐ 8,648 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-05：一个渲染器无关的适用于 web 的二维绘图 api 库。
 * [vis](https://github.com/almende/vis) ⚠️ Archived：动态的、基于浏览器的可视化库。
-* [dc.js](https://github.com/dc-js/dc.js) ⭐ 7,431 | 🐛 412 | 🌐 JavaScript | 📅 2024-07-31：与 crossfilter 无缝结合的多维图表绘制库，使用 d3.js 渲染。
-* [nvd3](https://github.com/novus/nvd3) ⭐ 7,226 | 🐛 565 | 🌐 JavaScript | 📅 2023-09-15：一个为 d3.js 构建可复用图表和图表组件的库。
+* [dc.js](https://github.com/dc-js/dc.js) ⭐ 7,430 | 🐛 412 | 🌐 JavaScript | 📅 2024-07-31：与 crossfilter 无缝结合的多维图表绘制库，使用 d3.js 渲染。
+* [nvd3](https://github.com/novus/nvd3) ⭐ 7,225 | 🐛 565 | 🌐 JavaScript | 📅 2023-09-15：一个为 d3.js 构建可复用图表和图表组件的库。
 * [mxGraph](https://github.com/jgraph/mxgraph) ⚠️ Archived：一款可快速创建交互式图表应用的图形库，支持任何主流浏览器（`已停止开发——译者注`）。
-* [morris.js](https://github.com/morrisjs/morris.js) ⭐ 6,879 | 🐛 324 | 🌐 CoffeeScript | 📅 2021-10-07：漂亮的时间序列图。
+* [morris.js](https://github.com/morrisjs/morris.js) ⭐ 6,880 | 🐛 324 | 🌐 CoffeeScript | 📅 2021-10-07：漂亮的时间序列图。
 * [rickshaw](https://github.com/shutterstock/rickshaw) ⭐ 6,508 | 🐛 203 | 🌐 JavaScript | 📅 2025-01-17：用于构建交互式实时图表的 JavaScript 工具包。
 * [heatmap.js](https://github.com/pa7/heatmap.js) ⭐ 6,379 | 🐛 164 | 🌐 JavaScript | 📅 2023-10-31：基于 HTML5 canvas 的热力图 JavaScript 库。
 * [Frappe Gantt](https://github.com/frappe/gantt) ⭐ 6,086 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-18：一款简单、可交互、现代的 Web 甘特图库。
 * [flot](https://github.com/flot/flot) ⭐ 5,909 | 🐛 630 | 🌐 JavaScript | 📅 2023-11-08：吸引人的、基于 jQuery 的 JavaScript 图表库。
 * [epoch](https://github.com/epochjs/epoch) ⭐ 4,950 | 🐛 69 | 🌐 HTML | 📅 2019-02-14：一个通用的实时图表库。
-* [cubism](https://github.com/square/cubism) ⭐ 4,927 | 🐛 42 | 🌐 JavaScript | 📅 2025-04-01：可视化时间序列的 D3 插件。
+* [cubism](https://github.com/square/cubism) ⭐ 4,926 | 🐛 42 | 🌐 JavaScript | 📅 2025-04-01：可视化时间序列的 D3 插件。
 * [peity](https://github.com/benpickles/peity) ⭐ 4,213 | 🐛 23 | 🌐 HTML | 📅 2024-04-11：进度条、线状和饼状图。
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) ⭐ 3,946 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-09：创建词云效果的 JavaScript 库。
 * [arbor](https://github.com/samizdatco/arbor) ⭐ 2,659 | 🐛 56 | 🌐 JavaScript | 📅 2020-04-10：一个基于 web workers 和 jQuery 的图形可视化库。
@@ -343,14 +343,14 @@ Web 数据可视化工具
 
 ## 编辑器
 
-* [quill](https://github.com/quilljs/quill) ⭐ 47,297 | 🐛 658 | 🌐 TypeScript | 📅 2025-07-25：一个带有 API 的跨浏览器富文本编辑器。
+* [quill](https://github.com/quilljs/quill) ⭐ 47,299 | 🐛 658 | 🌐 TypeScript | 📅 2025-07-25：一个带有 API 的跨浏览器富文本编辑器。
 * [CodeMirror](https://github.com/codemirror/CodeMirror) ⚠️ Archived：一个浏览器端的代码编辑器，用 JS 实现。
 * [ace](https://github.com/ajaxorg/ace) ⭐ 27,141 | 🐛 140 | 🌐 JavaScript | 📅 2026-08-13：Ace ，即 Ajax.org Cloud9 Editor。
 * [Draft.js](https://github.com/facebook/draft-js) ⚠️ Archived：用于构建文本编辑器的 React 框架。
-* [trix](https://github.com/basecamp/trix) ⭐ 19,994 | 🐛 184 | 🌐 JavaScript | 📅 2026-08-11：由 Basecamp 制作，适用于每天写作的富文本编辑器。
-* [TinyMCE](https://github.com/tinymce/tinymce) ⭐ 16,271 | 🐛 418 | 🌐 TypeScript | 📅 2026-08-15：一个 JavaScript 富文本编辑器。
+* [trix](https://github.com/basecamp/trix) ⭐ 19,993 | 🐛 184 | 🌐 JavaScript | 📅 2026-08-11：由 Basecamp 制作，适用于每天写作的富文本编辑器。
+* [TinyMCE](https://github.com/tinymce/tinymce) ⭐ 16,271 | 🐛 418 | 🌐 TypeScript | 📅 2026-08-16：一个 JavaScript 富文本编辑器。
 * [medium-editor](https://github.com/yabwe/medium-editor) ⭐ 16,106 | 🐛 359 | 🌐 JavaScript | 📅 2024-10-24：Medium.com 使用的所见即所得编辑器的克隆版。
-* [jsoneditor](https://github.com/josdejong/jsoneditor) ⭐ 12,263 | 🐛 232 | 🌐 JavaScript | 📅 2026-08-10：查看、编辑和格式化 JSON 的 web 工具。
+* [jsoneditor](https://github.com/josdejong/jsoneditor) ⭐ 12,263 | 🐛 233 | 🌐 JavaScript | 📅 2026-08-15：查看、编辑和格式化 JSON 的 web 工具。
 * [Summernote](https://github.com/summernote/summernote) ⭐ 11,831 | 🐛 118 | 🌐 JavaScript | 📅 2026-04-15：一个极简的所见即所得编辑器。
 * [wysihtml5](https://github.com/xing/wysihtml5) ⚠️ Archived：基于 HTML5 ，渐进增强的开源富文本编辑器，利用非常严苛的规则旨在生成符合 HTML5 规范的标签，避免生成非规范标签和同行样式。
 * [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) ⚠️ Archived：小巧的、兼容 bootstrap 的所见即所得的富文本编辑器。
@@ -372,7 +372,7 @@ Web 数据可视化工具
 * [ESDoc](https://github.com/esdoc/esdoc) ⭐ 2,731 | 🐛 166 | 🌐 JavaScript | 📅 2024-08-14：一款为 JavaScript 设计的优秀文档生成器。
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) ⭐ 2,711 | 🐛 29 | 🌐 JavaScript | 📅 2021-09-11：一款用于学习和记录代码库的可视化工具，通过在源码中插入面包屑来实现功能。
 * [dox](https://github.com/tj/dox) ⭐ 2,151 | 🐛 19 | 🌐 JavaScript | 📅 2022-09-07：一款 Node.js 开发的 JavaScript 文档生成器。Dox 不会生成结构样式严苛的文档，而是采用 JSON 表示法，以实现 markdown 和 JSDoc 风格标签。
-* [jsduck](https://github.com/senchalabs/jsduck) ⭐ 1,490 | 🐛 86 | 🌐 Ruby | 📅 2020-04-16：为 Sencha JavaScript 框架开发的接口文档生成器，当然其他框架也能用。
+* [jsduck](https://github.com/senchalabs/jsduck) ⭐ 1,489 | 🐛 86 | 🌐 Ruby | 📅 2020-04-16：为 Sencha JavaScript 框架开发的接口文档生成器，当然其他框架也能用。
 * [Ronn](https://github.com/rtomayko/ronn) ⭐ 1,409 | 🐛 48 | 🌐 Ruby | 📅 2022-01-29：构建手册。把对人类阅读友好的简单文本文件转换成 roff 格式文件，便于终端显示，也可以转换为 HTML ，便于 Web 端显示。
 * [jsdox](https://github.com/sutoiku/jsdox) ⭐ 210 | 🐛 32 | 🌐 JavaScript | 📅 2023-04-18：一款将 JSDoc3 转换成 markdown 的文档生成器。
 * [DevDocs](http://devdocs.io/)：一款多合一接口文档阅读器，界面统一、高效、排版精良。
@@ -390,17 +390,17 @@ Web 数据可视化工具
 
 *处理文件的库。*
 
-* [PDF.js](https://github.com/mozilla/pdf.js) ⭐ 53,734 | 🐛 419 | 🌐 JavaScript | 📅 2026-08-15：一个 JavaScript PDF 阅读器，社区驱动，Mozilla 支持。
-* [jsPDF](https://github.com/MrRio/jsPDF) ⭐ 31,275 | 🐛 119 | 🌐 JavaScript | 📅 2026-08-09：一款 JavaScript PDF 文件生成器。
-* [Papa Parse](https://github.com/mholt/PapaParse) ⭐ 13,542 | 🐛 223 | 🌐 JavaScript | 📅 2026-08-13：一款强大的 CSV 库，支持解析 CSV 文件/字符串，也能导出 CSV。
-* [diff2html](https://github.com/rtfpessoa/diff2html) ⭐ 3,395 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-08：git 差异输出解析器，也是 HTML 美化器。
+* [PDF.js](https://github.com/mozilla/pdf.js) ⭐ 53,737 | 🐛 419 | 🌐 JavaScript | 📅 2026-08-16：一个 JavaScript PDF 阅读器，社区驱动，Mozilla 支持。
+* [jsPDF](https://github.com/MrRio/jsPDF) ⭐ 31,274 | 🐛 120 | 🌐 JavaScript | 📅 2026-08-09：一款 JavaScript PDF 文件生成器。
+* [Papa Parse](https://github.com/mholt/PapaParse) ⭐ 13,543 | 🐛 224 | 🌐 JavaScript | 📅 2026-08-13：一款强大的 CSV 库，支持解析 CSV 文件/字符串，也能导出 CSV。
+* [diff2html](https://github.com/rtfpessoa/diff2html) ⭐ 3,394 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-08：git 差异输出解析器，也是 HTML 美化器。
 * [jBinary](https://github.com/jDataView/jBinary) ⭐ 549 | 🐛 27 | 🌐 JavaScript | 📅 2022-12-08：对用声明式语法描述文件类型和数据结构的二进制文件，进行高级 I/O（加载、解析、操作、序列化、存储）操作。
 
 ## 函数式编程
 
 *函数式编程库提升了 JavaScript 的能力。*
 
-* [lodash](https://github.com/lodash/lodash) ⭐ 61,289 | 🐛 106 | 🌐 JavaScript | 📅 2026-07-03：提供一致性、可定制、高性能和额外功能的实用库。
+* [lodash](https://github.com/lodash/lodash) ⭐ 61,266 | 🐛 106 | 🌐 JavaScript | 📅 2026-07-03：提供一致性、可定制、高性能和额外功能的实用库。
 * [underscore](https://github.com/jashkenas/underscore) ⭐ 27,337 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-12：JavaScript 的实用工具。
 * [lazy.js](https://github.com/dtao/lazy.js) ⭐ 5,968 | 🐛 59 | 🌐 JavaScript | 📅 2020-07-15：类似 `Underscore`，但性能更优越
 * [Sugar](https://github.com/andrewplummer/Sugar) ⭐ 4,504 | 🐛 95 | 🌐 JavaScript | 📅 2024-06-13：一个扩展了原生对象功能的 JavaScript 库。
@@ -427,7 +427,7 @@ Web 数据可视化工具
 
 *数据结构库用于构建一个更复杂的应用。*
 
-* [immutable-js](https://github.com/facebook/immutable-js) ⭐ 33,041 | 🐛 130 | 🌐 TypeScript | 📅 2026-08-14：不可变的数据集合，包括 Sequence、Range、Repeat、Map、OrderedMap、Set 和 sparse Vector。
+* [immutable-js](https://github.com/facebook/immutable-js) ⭐ 33,039 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-16：不可变的数据集合，包括 Sequence、Range、Repeat、Map、OrderedMap、Set 和 sparse Vector。
 * [mori](https://github.com/swannodette/mori) ⭐ 3,369 | 🐛 64 | 🌐 Clojure | 📅 2026-03-06：使用 ClojureScript 持久化数据结构和支持原生 JavaScript API 的库。
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) ⭐ 1,257 | 🐛 8 | 🌐 JavaScript | 📅 2020-12-21：完整的、经过充分测试和文档完备的数据结构的 JavaScript 库。
 * [hashmap](https://github.com/flesler/hashmap) ⭐ 383 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13：简单的哈希映射实现，支持任何类型的键值。
@@ -436,9 +436,9 @@ Web 数据可视化工具
 
 *日期库。*
 
-* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,664 | 🐛 1,297 | 🌐 JavaScript | 📅 2026-08-15：Day.js 是一款拥有和 Moment.js 一样的现代化接口的日期库，但它仅仅有 2kb 大小，可以用来替换 Moment.js。
-* [moment](https://github.com/moment/moment) ⭐ 47,916 | 🐛 206 | 🌐 JavaScript | 📅 2026-08-15：解析、验证、操作和显示日期。
-* [date-fns](https://github.com/date-fns/date-fns) ⭐ 36,623 | 🐛 990 | 🌐 TypeScript | 📅 2026-08-10：现代 JavaScript 日期功能库。
+* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,666 | 🐛 1,297 | 🌐 JavaScript | 📅 2026-08-16：Day.js 是一款拥有和 Moment.js 一样的现代化接口的日期库，但它仅仅有 2kb 大小，可以用来替换 Moment.js。
+* [moment](https://github.com/moment/moment) ⭐ 47,918 | 🐛 207 | 🌐 JavaScript | 📅 2026-08-16：解析、验证、操作和显示日期。
+* [date-fns](https://github.com/date-fns/date-fns) ⭐ 36,626 | 🐛 992 | 🌐 TypeScript | 📅 2026-08-10：现代 JavaScript 日期功能库。
 * [ms.js](https://github.com/rauchg/ms.js) ⭐ 5,544 | 🐛 35 | 🌐 TypeScript | 📅 2026-05-20：小巧的毫秒转换工具。
 * [moment-timezone](https://github.com/moment/moment-timezone) ⭐ 3,878 | 🐛 76 | 🌐 JavaScript | 📅 2026-07-19：基于 moment.js 的时区库。
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) ⭐ 3,795 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-02：一款支持自动更新模糊时间戳的 jQuery 插件（如："4 分钟之前"）。
@@ -455,7 +455,7 @@ Web 数据可视化工具
 
 * [query-string](https://github.com/sindresorhus/query-string) ⭐ 6,904 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-06：解析和字符串化 URL 查询字符串。
 * [URI.js](https://github.com/medialize/URI.js/) ⭐ 6,229 | 🐛 104 | 🌐 JavaScript | 📅 2023-08-27：URL 操作库。
-* [he](https://github.com/mathiasbynens/he) ⭐ 3,602 | 🐛 23 | 🌐 JavaScript | 📅 2021-12-29：健壮的 HTML 实体编码/解码器。
+* [he](https://github.com/mathiasbynens/he) ⭐ 3,598 | 🐛 23 | 🌐 JavaScript | 📅 2021-12-29：健壮的 HTML 实体编码/解码器。
 * [voca](https://github.com/panzerdp/voca) ⭐ 3,593 | 🐛 15 | 🌐 JavaScript | 📅 2023-08-01：一款超级好用的 JavaScript 字符串库。
 * [underscore.string](https://github.com/epeli/underscore.string) ⭐ 3,360 | 🐛 121 | 🌐 JavaScript | 📅 2026-01-30：Underscore.js 的字符串操作扩展。
 * [sprintf.js](https://github.com/alexei/sprintf.js) ⭐ 2,139 | 🐛 63 | 🌐 JavaScript | 📅 2024-04-05：实现字符串格式化。
@@ -480,9 +480,9 @@ Web 数据可视化工具
 
 ## 存储
 
-* [localForage](https://github.com/mozilla/localForage) ⭐ 25,799 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30：改善后的离线存储。其封装了 IndexedDB、WebSQL 和 localStorage，拥有操作简单和强大的 API。
-* [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,601 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10：一款简单、轻量的 cookies 读写删 jQuery 插件。
-* [store.js](https://github.com/marcuswestin/store.js) ⭐ 13,983 | 🐛 99 | 🌐 JavaScript | 📅 2024-01-16：为所有浏览器封装了 LocalStorage，而没有使用 cookies 和 flash。隐秘地使用 localStorage、globalStorage 和用户数据。
+* [localForage](https://github.com/mozilla/localForage) ⭐ 25,800 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30：改善后的离线存储。其封装了 IndexedDB、WebSQL 和 localStorage，拥有操作简单和强大的 API。
+* [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,595 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10：一款简单、轻量的 cookies 读写删 jQuery 插件。
+* [store.js](https://github.com/marcuswestin/store.js) ⭐ 13,982 | 🐛 99 | 🌐 JavaScript | 📅 2024-01-16：为所有浏览器封装了 LocalStorage，而没有使用 cookies 和 flash。隐秘地使用 localStorage、globalStorage 和用户数据。
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) ⚠️ Archived：轻量简单的、用于读取、编辑和删除 cookie 的 jQuery 插件。
 * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,349 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02：用 localStorage 加载和缓存脚本的资源加载器。
 * [cross-storage](https://github.com/zendesk/cross-storage) ⭐ 2,218 | 🐛 14 | 🌐 JavaScript | 📅 2025-12-10：获得权限后，能跨域名本地存储。
@@ -500,7 +500,7 @@ Web 数据可视化工具
 
 * [chroma.js](https://github.com/gka/chroma.js) ⭐ 10,575 | 🐛 76 | 🌐 JavaScript | 📅 2026-06-01：拥有各种各样颜色操作的 JavaScript 库。
 * [colors](https://github.com/mrmrs/colors) ⭐ 9,409 | 🐛 16 | 🌐 CSS | 📅 2023-07-20：更智能的默认 web 颜色。
-* [randomColor](https://github.com/davidmerfield/randomColor) ⭐ 6,126 | 🐛 16 | 🌐 JavaScript | 📅 2025-12-03：JavaScript 颜色生成器。
+* [randomColor](https://github.com/davidmerfield/randomColor) ⭐ 6,125 | 🐛 16 | 🌐 JavaScript | 📅 2025-12-03：JavaScript 颜色生成器。
 * [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,247 | 🐛 105 | 🌐 JavaScript | 📅 2024-06-26：快速、轻巧的颜色操作和转换库。
 * [color](https://github.com/MoOx/color) ⭐ 4,935 | 🐛 20 | 🌐 JavaScript | 📅 2025-11-14：JavaScript 颜色转换和操作库。
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) ⚠️ Archived：从图像提取主要颜色。
@@ -518,7 +518,7 @@ Web 数据可视化工具
 ## 控制流
 
 * [async](https://github.com/caolan/async) ⭐ 28,143 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-07：适用于 node.js 和浏览器的异步工具库。
-* [Bluebird](https://github.com/petkaantonov/bluebird/) ⭐ 20,502 | 🐛 131 | 🌐 JavaScript | 📅 2024-11-07：功能齐全的 promoise 库，专注于功能革新和性能提升。
+* [Bluebird](https://github.com/petkaantonov/bluebird/) ⭐ 20,493 | 🐛 131 | 🌐 JavaScript | 📅 2024-11-07：功能齐全的 promoise 库，专注于功能革新和性能提升。
 * [q](https://github.com/kriskowal/q) ⚠️ Archived：实现异步 promise 的 JavaScript 工具。
 * [when](https://github.com/cujojs/when) ⭐ 3,424 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-10：快速可靠的、Promises/A+ 规范的 when() 实现，而且拥有其它异步操作的优秀特性。
 * [step](https://github.com/creationix/step/) ⭐ 2,193 | 🐛 21 | 🌐 JavaScript | 📅 2017-08-08：一款可以使逻辑执行更简单的异步控制流库。
@@ -537,7 +537,7 @@ Web 数据可视化工具
 
 ## 安全性
 
-* [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,306 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15：针对 HTML、MathML 和 SVG 的仅支持 DOM 的超快速、高容错的 XSS 过滤器。
+* [DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,307 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-16：针对 HTML、MathML 和 SVG 的仅支持 DOM 的超快速、高容错的 XSS 过滤器。
 * [js-xss](https://github.com/leizongmin/js-xss) ⭐ 5,314 | 🐛 69 | 🌐 HTML | 📅 2026-05-06：通过白名单配置，即可过滤不信任的 HTML（防止 XSS 攻击）。
 * [xss-filters](https://github.com/yahoo/xss-filters) ⚠️ Archived：Yahoo 出品的安全 XSS 过滤器。
 
@@ -562,9 +562,9 @@ Web 数据可视化工具
 
 ## API
 
-* [axios](https://github.com/axios/axios) ⭐ 109,216 | 🐛 64 | 🌐 JavaScript | 📅 2026-08-13：基于 Promise 的 HTTP 客户端，适用于 Node.js 和 浏览器。
-* [SWR](https://github.com/vercel/swr) ⭐ 32,456 | 🐛 212 | 🌐 TypeScript | 📅 2026-08-13：用于远端数据拉取的 React Hooks 库。
-* [wretch](https://github.com/elbywan/wretch) ⭐ 5,181 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-19：一款小巧的直觉语法系 fetch 功能封装包。
+* [axios](https://github.com/axios/axios) ⭐ 109,206 | 🐛 64 | 🌐 JavaScript | 📅 2026-08-13：基于 Promise 的 HTTP 客户端，适用于 Node.js 和 浏览器。
+* [SWR](https://github.com/vercel/swr) ⭐ 32,457 | 🐛 213 | 🌐 TypeScript | 📅 2026-08-13：用于远端数据拉取的 React Hooks 库。
+* [wretch](https://github.com/elbywan/wretch) ⭐ 5,179 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-19：一款小巧的直觉语法系 fetch 功能封装包。
 * [bottleneck](https://github.com/SGrondin/bottleneck) ⭐ 2,003 | 🐛 88 | 🌐 JavaScript | 📅 2024-01-23：强大的速度限制器，使调节流量变得更容易。
 * [Optic](https://github.com/opticdev/optic) ⚠️ Archived：Optic 用于对 API 自动测试和文档生成。
 * [jquery.rest](https://github.com/jpillora/jquery.rest) ⭐ 610 | 🐛 20 | 🌐 CoffeeScript | 📅 2020-09-02：一个让 RESTful API 更易用的 jQuery 插件。
@@ -587,7 +587,7 @@ Web 数据可视化工具
 
 * [ConvNetJS](https://github.com/karpathy/convnetjs) ⭐ 11,196 | 🐛 76 | 🌐 JavaScript | 📅 2023-01-07：JavaScript 深度学习。在浏览器环境训练卷积神经网络（或者普通神经网络）。
 * [Brain.js](https://github.com/harthur/brain) ⚠️ Archived：JavaScript 神经网络。
-* [Synaptic.js](https://github.com/cazala/synaptic) ⭐ 6,914 | 🐛 162 | 🌐 JavaScript | 📅 2026-08-01：适用于 Node.js 和浏览器的无架构神经网络库。
+* [Synaptic.js](https://github.com/cazala/synaptic) ⭐ 6,913 | 🐛 162 | 🌐 JavaScript | 📅 2026-08-01：适用于 Node.js 和浏览器的无架构神经网络库。
 * [Mind.js](https://github.com/stevenmiller888/mind) ⭐ 1,503 | 🐛 8 | 🌐 JavaScript | 📅 2026-07-07：一款灵活的神经网络库。
 * [DN2A](https://github.com/dn2a/dn2a-javascript) ⭐ 464 | 🐛 6 | 🌐 TypeScript | 📅 2023-10-07：数字神经网络架构。
 * [Synapses](https://github.com/mrdimosthenis/Synapses) ⭐ 73 | 🐛 0 | 📅 2021-09-23：轻量级跨平台神经网络库。
@@ -607,8 +607,8 @@ Web 数据可视化工具
 
 ## 代码高亮
 
-* [Highlight.js](https://github.com/isagalaev/highlight.js) ⭐ 24,979 | 🐛 92 | 🌐 JavaScript | 📅 2026-08-14：JavaScript 语法高亮器。
-* [PrismJS](https://github.com/PrismJS/prism) ⭐ 13,036 | 🐛 482 | 🌐 JavaScript | 📅 2026-06-29：轻量、健壮和优雅的语法高亮器。
+* [Highlight.js](https://github.com/isagalaev/highlight.js) ⭐ 24,979 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-16：JavaScript 语法高亮器。
+* [PrismJS](https://github.com/PrismJS/prism) ⭐ 13,035 | 🐛 482 | 🌐 JavaScript | 📅 2026-06-29：轻量、健壮和优雅的语法高亮器。
 
 ## 加载状态
 
@@ -616,10 +616,10 @@ Web 数据可视化工具
 
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) ⭐ 19,334 | 🐛 11 | 🌐 CSS | 📅 2020-08-01：CSS 加载指示器动画集合。
 * [pace](https://github.com/HubSpot/pace) ⭐ 15,598 | 🐛 278 | 🌐 CSS | 📅 2024-02-26：自动向你的网站添加一个进度条。
-* [Spin.js](https://github.com/fgnass/spin.js) ⭐ 9,249 | 🐛 15 | 🌐 CSS | 📅 2024-07-19：一个旋转进度指示器。
+* [Spin.js](https://github.com/fgnass/spin.js) ⭐ 9,245 | 🐛 15 | 🌐 CSS | 📅 2024-07-19：一个旋转进度指示器。
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) ⭐ 7,854 | 🐛 69 | 🌐 JavaScript | 📅 2024-11-02：基于 SVG path 动画，漂亮、响应式的进度条。
 * [Ladda](https://github.com/hakimel/Ladda) ⭐ 7,791 | 🐛 9 | 🌐 JavaScript | 📅 2021-12-02：内置在按钮的加载指示器。
-* [css-loaders](https://github.com/lukehaas/css-loaders) ⭐ 7,054 | 🐛 21 | 🌐 CSS | 📅 2025-02-21：CSS 旋转加载指示器动画集合。
+* [css-loaders](https://github.com/lukehaas/css-loaders) ⭐ 7,053 | 🐛 21 | 🌐 CSS | 📅 2025-02-21：CSS 旋转加载指示器动画集合。
 * [nanobar](https://github.com/jacoborus/nanobar) ⭐ 2,815 | 🐛 14 | 🌐 JavaScript | 📅 2020-03-01：非常轻量的进度条，不依赖 jQuery。
 * [progress.js](https://github.com/usablica/progress.js) ⭐ 2,337 | 🐛 11 | 🌐 JavaScript | 📅 2015-08-31：为页面中的任何对象创建和管理进度条。
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) ⭐ 1,530 | 🐛 8 | 🌐 JavaScript | 📅 2021-05-15：谷歌 Material 风格的线性进度条。
@@ -631,9 +631,9 @@ Web 数据可视化工具
 
 ## 验证
 
-* [validator.js](https://github.com/chriso/validator.js) ⭐ 23,740 | 🐛 475 | 🌐 JavaScript | 📅 2026-08-08：字符串验证和过滤（清理用户输入中的有害或危险字符）。
+* [validator.js](https://github.com/chriso/validator.js) ⭐ 23,739 | 🐛 474 | 🌐 JavaScript | 📅 2026-08-15：字符串验证和过滤（清理用户输入中的有害或危险字符）。
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) ⭐ 10,321 | 🐛 41 | 🌐 JavaScript | 📅 2026-06-29：jQuery 验证插件。
-* [is.js](https://github.com/arasatasaygin/is.js) ⭐ 9,072 | 🐛 47 | 🌐 JavaScript | 📅 2022-01-11：用于类型、正则表达式、是否存在、时间等检查。
+* [is.js](https://github.com/arasatasaygin/is.js) ⭐ 9,070 | 🐛 47 | 🌐 JavaScript | 📅 2022-01-11：用于类型、正则表达式、是否存在、时间等检查。
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) ⭐ 8,977 | 🐛 71 | 🌐 JavaScript | 📅 2026-05-26：一行 JavaScript 代码都不用写就可以在前端验证表单。
 * [validate.js](https://github.com/rickharrison/validate.js) ⭐ 2,546 | 🐛 32 | 🌐 JavaScript | 📅 2020-03-02：受 CodeIgniter 启发的轻量表单验证 JavaScript 库。
 * [Funval](https://github.com/neuledge/funval) ⭐ 359 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-15：函数接口式数据验证（支持 TypeScript）。
@@ -652,9 +652,9 @@ Web 数据可视化工具
 
 ## 导览与指南
 
-* [driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 26,591 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-18：用于聚焦用户注意力的强大却轻量的原生 JavaScript 引擎。
-* [intro.js](https://github.com/usablica/intro.js) ⭐ 23,478 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-07：一款用于网站项目新特性介绍和逐步导览库。
-* [shepherd](https://github.com/HubSpot/shepherd) ⭐ 13,780 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-14：通过引导让用户浏览你的应用程序。
+* [driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 26,592 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-18：用于聚焦用户注意力的强大却轻量的原生 JavaScript 引擎。
+* [intro.js](https://github.com/usablica/intro.js) ⭐ 23,457 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-07：一款用于网站项目新特性介绍和逐步导览库。
+* [shepherd](https://github.com/HubSpot/shepherd) ⭐ 13,779 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-14：通过引导让用户浏览你的应用程序。
 * [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) ⭐ 4,409 | 🐛 193 | 🌐 CoffeeScript | 📅 2023-10-09：应用 Twitter Bootstrap 气泡对产品进行快速简单的引导。
 * [hopscotch](https://github.com/linkedin/hopscotch) ⚠️ Archived：让开发者更容易向其产品页面添加引导的框架。
 * [joyride](https://github.com/zurb/joyride) ⭐ 1,412 | 🐛 127 | 🌐 JavaScript | 📅 2020-09-08：基于 jQuery 的功能引导介绍插件。
@@ -671,18 +671,18 @@ Web 数据可视化工具
 * [messenger](https://github.com/HubSpot/messenger) ⭐ 3,991 | 🐛 55 | 🌐 JavaScript | 📅 2020-09-07：为应用添加 Growl-style 弹框和信息（Crowl 是 Mac OS X 下的一个通知系统）。
 * [pnotify](https://github.com/sciactive/pnotify) ⭐ 3,634 | 🐛 48 | 🌐 HTML | 📅 2022-11-20：适用于 Bootstrap、jQuery UI 和 Web Notifications Draft 的 JavaScript 通知库。
 * [iziToast](https://github.com/dolce/iziToast) ⭐ 2,666 | 🐛 52 | 🌐 JavaScript | 📅 2024-08-07：优雅、响应式、灵活且轻量的零依赖通知插件。
-* [humane-js](https://github.com/wavded/humane-js) ⭐ 2,091 | 🐛 12 | 🌐 CSS | 📅 2025-11-14：一个简单、时髦的浏览器通知系统。
+* [humane-js](https://github.com/wavded/humane-js) ⭐ 2,085 | 🐛 12 | 🌐 CSS | 📅 2025-11-14：一个简单、时髦的浏览器通知系统。
 * [smoke.js](https://github.com/hxgf/smoke.js) ⭐ 922 | 🐛 21 | 🌐 JavaScript | 📅 2020-04-22：与框架无关的 JavaScript 弹框系统。
 
 ## 幻灯片
 
-* [reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,130 | 🐛 913 | 🌐 JavaScript | 📅 2026-05-21：用 HTML 创建漂亮演示文档控件的框架。
-* [Swiper](https://github.com/nolimits4web/Swiper) ⭐ 41,878 | 🐛 253 | 🌐 TypeScript | 📅 2026-08-06：使用硬件加速动画的移动设备触控幻灯片框架。
-* [impress.js](https://github.com/impress/impress.js) ⭐ 38,193 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23：一款适用于现代浏览器，基于 CSS3 transforms 和 transitions 动画的演示文档框架。灵感来自 prezi.com 。
+* [reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,131 | 🐛 913 | 🌐 JavaScript | 📅 2026-05-21：用 HTML 创建漂亮演示文档控件的框架。
+* [Swiper](https://github.com/nolimits4web/Swiper) ⭐ 41,879 | 🐛 253 | 🌐 TypeScript | 📅 2026-08-06：使用硬件加速动画的移动设备触控幻灯片框架。
+* [impress.js](https://github.com/impress/impress.js) ⭐ 38,173 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23：一款适用于现代浏览器，基于 CSS3 transforms 和 transitions 动画的演示文档框架。灵感来自 prezi.com 。
 * [slick](https://github.com/kenwheeler/slick) ⭐ 28,562 | 🐛 1,317 | 🌐 JavaScript | 📅 2026-08-01：（可能是）你最爱的跑马灯轮播库。
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ⭐ 25,236 | 🐛 170 | 🌐 JavaScript | 📅 2025-12-04：适用于移动设备和桌面电脑的、模块化和独立框架的 JavaScript 画廊控件。
 * [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) ⭐ 8,390 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-11：TypeScript 编写的一款可扩展的低级轮播库。
-* [Glide.js](https://github.com/jedrzejchalubek/glidejs) ⭐ 7,666 | 🐛 245 | 🌐 JavaScript | 📅 2026-03-21：响应式触摸友好型 jQuery 幻灯片。特点是小快灵。
+* [Glide.js](https://github.com/jedrzejchalubek/glidejs) ⭐ 7,665 | 🐛 245 | 🌐 JavaScript | 📅 2026-03-21：响应式触摸友好型 jQuery 幻灯片。特点是小快灵。
 * [Flickity](https://github.com/metafizzy/flickity) ⭐ 7,572 | 🐛 124 | 🌐 JavaScript | 📅 2024-05-29：可触摸的、响应式的和可轻弹的画廊。
 * [FlexSlider](https://github.com/woothemes/FlexSlider) ⚠️ Archived：一款令人惊叹的、全响应式的 jQuery 幻灯片插件。
 * [bespoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,796 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08：一个超级小的(1KB min和gzip压缩)，模块化的现代浏览器表示库，旨在促进一个丰富的插件生态系统。
@@ -708,7 +708,7 @@ Web 数据可视化工具
 
 ### 输入
 
-* [typeahead.js](https://github.com/twitter/typeahead.js) ⭐ 16,443 | 🐛 507 | 🌐 JavaScript | 📅 2023-04-14：快速、功能齐全的自动补全库。
+* [typeahead.js](https://github.com/twitter/typeahead.js) ⭐ 16,442 | 🐛 507 | 🌐 JavaScript | 📅 2023-04-14：快速、功能齐全的自动补全库。
 * [awesomplete](https://github.com/LeaVerou/awesomplete) ⭐ 6,973 | 🐛 186 | 🌐 JavaScript | 📅 2026-07-25：零依赖、超轻量、好用而且漂亮的自动补全库。 - <http://leaverou.github.io/awesomplete>
 * [At.js](https://github.com/ichord/At.js) ⭐ 5,242 | 🐛 156 | 🌐 CoffeeScript | 📅 2021-11-18：在应用中添加类似 Github 的自动补全提示功能。
 * [tag-it](https://github.com/aehlke/tag-it) ⭐ 2,458 | 🐛 248 | 🌐 JavaScript | 📅 2023-08-28：处理多标签字段以及标签建议/自动补全的 jQuery UI 插件。
@@ -720,7 +720,7 @@ Web 数据可视化工具
 
 ### 日历
 
-* [fullcalendar](https://github.com/fullcalendar/fullcalendar) ⭐ 20,607 | 🐛 1,128 | 🌐 TypeScript | 📅 2026-07-24：全尺寸、支持拖放事件的 jQuery 日历插件。
+* [fullcalendar](https://github.com/fullcalendar/fullcalendar) ⭐ 20,607 | 🐛 1,129 | 🌐 TypeScript | 📅 2026-07-24：全尺寸、支持拖放事件的 jQuery 日历插件。
 * [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) ⭐ 12,644 | 🐛 886 | 🌐 JavaScript | 📅 2025-09-15：基于 bootstrap 的日历选择器。
 * [Pikaday](https://github.com/dbushell/Pikaday) ⚠️ Archived：一个崭新的 JavaScript 日期选择器 —— 轻量、无依赖和模块化的 CSS。
 * [pickadate.js](https://github.com/amsul/pickadate.js) ⭐ 7,651 | 🐛 315 | 🌐 JavaScript | 📅 2023-07-14：对移动设备友好的、响应式的和轻量的 jQuery 日期 & 时间输入选择器。
@@ -730,14 +730,14 @@ Web 数据可视化工具
 ### 选择器
 
 * [select2](https://github.com/select2/select2) ⭐ 25,912 | 🐛 131 | 🌐 JavaScript | 📅 2026-08-15：基于 jQuery，是选择框的替代品。支持搜索、远程数据集和无限滚动。
-* [chosen](https://github.com/harvesthq/chosen) ⭐ 21,961 | 🐛 309 | 🌐 HTML | 📅 2024-12-02：可以让冗长不便的选择框更友好的库。
+* [chosen](https://github.com/harvesthq/chosen) ⭐ 21,949 | 🐛 309 | 🌐 HTML | 📅 2024-12-02：可以让冗长不便的选择框更友好的库。
 * [selectize.js](https://github.com/brianreavis/selectize.js) ⚠️ Archived：Selectize 是文本框和 `<select>` 的混合体。基于jQuery，兼具自动补全和原生键盘导航，可用于标签、联系人列表等。
 
 ### 文件上传
 
 * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) ⚠️ Archived：File Upload 是一个支持多文件选择、文件拖放、进度条、验证和图片/音频/视频预览的 jQuery 插件。
 * [dropzone](https://github.com/enyo/dropzone) ⭐ 18,382 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-15：Dropzone 是一个易于使用且支持多文件拖放的库。其支持图片预览并且拥有很漂亮的进度条。
-* [filepond](https://github.com/pqina/filepond) ⭐ 16,392 | 🐛 140 | 🌐 JavaScript | 📅 2026-07-13：一款可以上传任何文件的 JavaScript 库，自动优化图片以实现更快的上传体验，提供无障碍、如丝般顺滑的用户体验。
+* [filepond](https://github.com/pqina/filepond) ⭐ 16,390 | 🐛 140 | 🌐 JavaScript | 📅 2026-07-13：一款可以上传任何文件的 JavaScript 库，自动优化图片以实现更快的上传体验，提供无障碍、如丝般顺滑的用户体验。
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) ⚠️ Archived：一个带有进度条、拖放功能和支持直接上传到 S3 （Amazon Simple Storage Service，亚马逊简易存储服务）的多文件上传插件。
 * [plupload](https://github.com/moxiecode/plupload) ⭐ 5,615 | 🐛 207 | 🌐 JavaScript | 📅 2024-07-18：处理文件上传的 JavaScript API，支持多文件选择、文件类型过滤、分块请求、客户端图片缩放，根据不同的运行环境自动选择 HTML5、Silverlight 或 Flash。
 * [FileAPI](https://github.com/mailru/FileAPI) ⭐ 3,549 | 🐛 50 | 🌐 JavaScript | 📅 2020-09-24：JavaScript 文件工具集合。支持多文件上传、拖放和文件分块上传。对于图像，支持裁剪、调整大小和根据 EXIF 自动调整方向。
@@ -754,7 +754,7 @@ Web 数据可视化工具
 
 ## 提示
 
-* [hint.css](https://github.com/chinchang/hint.css) ⭐ 8,432 | 🐛 54 | 🌐 CSS | 📅 2024-10-17：一款 CSS 提示库。
+* [hint.css](https://github.com/chinchang/hint.css) ⭐ 8,431 | 🐛 54 | 🌐 CSS | 📅 2024-10-17：一款 CSS 提示库。
 * [tooltipster](https://github.com/iamceege/tooltipster) ⭐ 2,735 | 🐛 34 | 🌐 JavaScript | 📅 2026-04-06：一个工具提示 jQuery 插件。
 * [toolbar](https://github.com/paulkinzett/toolbar) ⭐ 2,271 | 🐛 28 | 🌐 JavaScript | 📅 2017-01-20：一款提示风格工具栏 jQuery 插件。
 * [tipsy](https://github.com/jaz303/tipsy) ⭐ 1,994 | 🐛 119 | 🌐 JavaScript | 📅 2022-05-23：Facebook 风格适用于 jQuery 的提示工具。
@@ -768,7 +768,7 @@ Web 数据可视化工具
 * [SweetAlert](https://github.com/t4t5/sweetalert) ⭐ 22,263 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15：JavaScript 原生警告弹窗很棒的替代品。
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) ⭐ 11,315 | 🐛 678 | 🌐 JavaScript | 📅 2024-06-08：专注于性能、轻量、响应式的灯箱（lightbox）脚本。
 * [fancyBox](https://github.com/fancyapps/fancyBox) ⚠️ Archived：一款用于放大图片、html 内容和多媒体的漂亮优雅的工具。
-* [lightGallery](https://github.com/sachinchoolur/lightGallery) ⭐ 7,044 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07：一款适用于 jQuery 的可自定义、模块化、响应式的灯箱画廊插件。
+* [lightGallery](https://github.com/sachinchoolur/lightGallery) ⭐ 7,045 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07：一款适用于 jQuery 的可自定义、模块化、响应式的灯箱画廊插件。
 * [vex](https://github.com/HubSpot/vex) ⭐ 6,874 | 🐛 54 | 🌐 CSS | 📅 2023-02-26：新的、拥有高度可配置和易于改变样式功能的对话框库。
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) ⭐ 4,960 | 🐛 109 | 🌐 JavaScript | 📅 2019-04-07：对 Bootstrap 默认模态框类进行扩展。其支持响应式、可堆叠和 ajax 等。
 * [colorbox](https://github.com/jackmoore/colorbox) ⚠️ Archived：一款适用于 jQuery 轻量可自定义的的灯箱插件。
@@ -783,9 +783,9 @@ Web 数据可视化工具
 
 ## 滚动
 
-* [fullPage](https://github.com/alvarotrigo/fullPage.js) ⭐ 35,412 | 🐛 127 | 🌐 JavaScript | 📅 2026-03-17：简单和易于使用的、用于创建全屏滚动网站（也被称为单页面网站）的插件。
+* [fullPage](https://github.com/alvarotrigo/fullPage.js) ⭐ 35,410 | 🐛 127 | 🌐 JavaScript | 📅 2026-03-17：简单和易于使用的、用于创建全屏滚动网站（也被称为单页面网站）的插件。
 * [skrollr](https://github.com/Prinzhorn/skrollr) ⚠️ Archived：独立不依赖 jQuery 的视差滚动库，适用于移动设备（Android + iOS）和桌面电脑。
-* [parallax](https://github.com/wagerfield/parallax) ⭐ 16,580 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-06：响应智能设备翻转的视差引擎。
+* [parallax](https://github.com/wagerfield/parallax) ⭐ 16,579 | 🐛 11 | 🌐 JavaScript | 📅 2024-04-06：响应智能设备翻转的视差引擎。
 * [iscroll](https://github.com/cubiq/iscroll) ⚠️ Archived：高性能、轻量、无依赖、兼容多平台的 JavaScript 滚动组件。
 * [headroom](https://github.com/WickyNilliams/headroom.js) ⭐ 10,838 | 🐛 20 | 🌐 JavaScript | 📅 2023-10-25：除非你需要显示页面头部，否则将隐藏它，这样可以腾出页面头部空间。
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) ⭐ 9,469 | 🐛 266 | 🌐 JavaScript | 📅 2026-02-19：使用这个单页滚动插件可以创建一个类似 Apple 的单页面滚动网站（iPhone 5S 风格）。
@@ -808,7 +808,7 @@ Web 数据可视化工具
 
 ## 表格/栅格
 
-* [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) ⭐ 9,310 | 🐛 62 | 🌐 HTML | 📅 2020-10-01：基于 CSS3 flexbox 的栅格。
+* [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) ⭐ 9,309 | 🐛 62 | 🌐 HTML | 📅 2020-10-01：基于 CSS3 flexbox 的栅格。
 * [floatThead](https://github.com/mkoryak/floatThead) ⭐ 1,213 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13：（jQuery 插件）锁定表格头部，只允许表格内容滚动。适用于任何表格，而且不需要额外的 html 或 css。
 * [jTable](https://github.com/hikalkan/jtable) ⭐ 1,082 | 🐛 1,504 | 🌐 JavaScript | 📅 2021-11-19：基于 CRUD 表创建 AJAX 的 jQuery 插件。
 * [DataTables](http://www.datatables.net/)：（jQuery 插件）这是一个非常灵活的工具，在渐进增强的基础上，将高级的交互效果添加到 HTML 表格上。
@@ -829,7 +829,7 @@ Web 数据可视化工具
 
 ## Boilerplates
 
-* [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) ⭐ 57,594 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-10：一款用于构建快速、稳定、自适应网页应用和网站的专业前端模板。
+* [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) ⭐ 57,595 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-10：一款用于构建快速、稳定、自适应网页应用和网站的专业前端模板。
 * [Cerberus](https://github.com/TedGoas/Cerberus) ⭐ 5,129 | 🐛 13 | 🌐 HTML | 📅 2024-07-16：简单、固定模式的响应式 HTML 邮件模板，也可在 Outlook 中使用。
 * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) ⚠️ Archived：一款用于构建快速、现代移动端网页应用的前端模板。
 * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) ⭐ 1,572 | 🐛 13 | 🌐 HTML | 📅 2023-04-16：这就是响应式。
@@ -841,14 +841,14 @@ Web 数据可视化工具
 
 ## 手势
 
-* [hammer.js](https://github.com/hammerjs/hammer.js) ⭐ 24,341 | 🐛 317 | 🌐 JavaScript | 📅 2026-01-04：拥有多种触摸手势的 JavaScript 库。
+* [hammer.js](https://github.com/hammerjs/hammer.js) ⭐ 24,342 | 🐛 317 | 🌐 JavaScript | 📅 2026-01-04：拥有多种触摸手势的 JavaScript 库。
 * [Dragula](https://github.com/bevacqua/dragula/) ⭐ 22,141 | 🐛 159 | 🌐 JavaScript | 📅 2024-06-07：超级易用的拖拽库。
 * [touchemulator](https://github.com/hammerjs/touchemulator) ⭐ 406 | 🐛 17 | 🌐 JavaScript | 📅 2022-11-17：在桌面电脑模仿触摸输入。
 
 ## 地图
 
 * [Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,482 | 🐛 557 | 🌐 JavaScript | 📅 2026-08-10：对移动设备友好的、可交互的地图 JavaScript 库。
-* [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) ⭐ 15,571 | 🐛 1,639 | 🌐 JavaScript | 📅 2026-08-15：基于 WebGL 实现的开源虚拟地球仪和地图引擎。
+* [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) ⭐ 15,572 | 🐛 1,639 | 🌐 JavaScript | 📅 2026-08-15：基于 WebGL 实现的开源虚拟地球仪和地图引擎。
 * [gmaps](https://github.com/HPNeo/gmaps) ⚠️ Archived：以最简单的方式使用 Google 地图。
 * [mapbox.js](https://github.com/mapbox/mapbox.js) ⚠️ Archived：Mapbox 的 API，Leaflet 的插件。
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) ⭐ 1,818 | 🐛 104 | 🌐 JavaScript | 📅 2021-03-28：矢量地图 jQuery 插件。
@@ -858,9 +858,9 @@ Web 数据可视化工具
 
 ## 视频/音频
 
-* [video.js](https://github.com/videojs/video.js) ⭐ 39,852 | 🐛 664 | 🌐 JavaScript | 📅 2026-08-03：开源的 HTML5 和 Flash 视频播放器。
-* [mediaelement](http://mediaelementjs.com/)、[Github](https://github.com/johndyer/mediaelement) ⭐ 8,298 | 🐛 228 | 🌐 JavaScript | 📅 2026-05-12：让 HTML5、 Flash 播放器和模仿 HTML5 媒体元素 API 的 Silverlight shim，在所有浏览器拥有一致的 UI。
-* [clappr](https://github.com/clappr/clappr) ⭐ 7,492 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15：网页上用的可扩展的媒体播放器 <http://clappr.io>。
+* [video.js](https://github.com/videojs/video.js) ⭐ 39,861 | 🐛 664 | 🌐 JavaScript | 📅 2026-08-03：开源的 HTML5 和 Flash 视频播放器。
+* [mediaelement](http://mediaelementjs.com/)、[Github](https://github.com/johndyer/mediaelement) ⭐ 8,299 | 🐛 228 | 🌐 JavaScript | 📅 2026-05-12：让 HTML5、 Flash 播放器和模仿 HTML5 媒体元素 API 的 Silverlight shim，在所有浏览器拥有一致的 UI。
+* [clappr](https://github.com/clappr/clappr) ⭐ 7,494 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15：网页上用的可扩展的媒体播放器 <http://clappr.io>。
 * [FitVids.js](https://github.com/davatron5000/FitVids.js) ⭐ 4,709 | 🐛 37 | 🌐 HTML | 📅 2022-05-06：轻量易用，可自适应宽度的 jQuery 视频插件。
 * [SoundJS](https://github.com/CreateJS/SoundJS) ⭐ 4,580 | 🐛 95 | 🌐 JavaScript | 📅 2021-03-27：让音频在 web 上运行更简单的库。它为不同浏览器提供了统一的 API。
 * [flowplayer](https://flowplayer.org/)、[Github](https://github.com/flowplayer/flowplayer) ⚠️ Archived：HTML5 视频播放器
@@ -876,7 +876,7 @@ Web 数据可视化工具
 
 ## 排版
 
-* [FitText.js](https://github.com/davatron5000/FitText.js) ⭐ 6,710 | 🐛 28 | 🌐 HTML | 📅 2020-12-02：给越来越多的网页类型设计的 jQuery 插件。
+* [FitText.js](https://github.com/davatron5000/FitText.js) ⭐ 6,711 | 🐛 28 | 🌐 HTML | 📅 2020-12-02：给越来越多的网页类型设计的 jQuery 插件。
 * [Lettering.js](https://github.com/davatron5000/Lettering.js) ⭐ 5,335 | 🐛 16 | 🌐 JavaScript | 📅 2020-07-27：一款轻量易用的网页字体设置插件，利用 JavaScript 在字符上插入 `<span>` 标签实现对单个字符的样式配置。
 * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) ⭐ 4,563 | 🐛 37 | 🌐 JavaScript | 📅 2021-07-28：业界最好的网页排版工具：以元素高度为基准定义字号和行高。
 * [slabText](https://github.com/freqDec/slabText/) ⭐ 1,328 | 🐛 6 | 🌐 HTML | 📅 2018-10-19：用于生成大且粗响应式大标题的 jQuery 插件。
@@ -888,16 +888,16 @@ Web 数据可视化工具
 
 ## 动画
 
-* [animate.css](https://github.com/daneden/animate.css) ⭐ 82,744 | 🐛 79 | 🌐 CSS | 📅 2024-07-29：要多易用有多易用的跨浏览器 CSS 动画库。
-* [impess.js](https://github.com/impress/impress.js) ⭐ 38,193 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23：在 HTML 文档里，运用 CSS3 变换和过渡制作类似 Prezi 的展现效果。
-* [particles.js](https://github.com/VincentGarreau/particles.js) ⭐ 30,223 | 🐛 367 | 🌐 JavaScript | 📅 2024-03-28：用于创建粒子的轻量 JavaScript 库。
-* [GreenSock-JS](https://github.com/greensock/GreenSock-JS) ⭐ 27,726 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-13：适用于所有主流浏览器的高性能 HTML5 动画。
+* [animate.css](https://github.com/daneden/animate.css) ⭐ 82,737 | 🐛 79 | 🌐 CSS | 📅 2024-07-29：要多易用有多易用的跨浏览器 CSS 动画库。
+* [impess.js](https://github.com/impress/impress.js) ⭐ 38,173 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23：在 HTML 文档里，运用 CSS3 变换和过渡制作类似 Prezi 的展现效果。
+* [particles.js](https://github.com/VincentGarreau/particles.js) ⭐ 30,208 | 🐛 367 | 🌐 JavaScript | 📅 2024-03-28：用于创建粒子的轻量 JavaScript 库。
+* [GreenSock-JS](https://github.com/greensock/GreenSock-JS) ⭐ 27,758 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-13：适用于所有主流浏览器的高性能 HTML5 动画。
 * [velocity](https://github.com/julianshapiro/velocity) ⭐ 17,202 | 🐛 40 | 🌐 JavaScript | 📅 2020-10-24：加速 JavaScript 动画。
 * [Effeckt.css](https://github.com/h5bp/Effeckt.css) ⚠️ Archived：一款高性能过渡动画库。
 * [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,953 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13：particles.js 全新升级版本，修复了 bug ，增加许多新功能。
-* [Dynamics.js](https://github.com/michaelvillar/dynamics.js) ⭐ 7,546 | 🐛 9 | 🌐 CoffeeScript | 📅 2019-02-26：用于创建符合物理运动规律的 CSS 动画库。
+* [Dynamics.js](https://github.com/michaelvillar/dynamics.js) ⭐ 7,545 | 🐛 9 | 🌐 CoffeeScript | 📅 2019-02-26：用于创建符合物理运动规律的 CSS 动画库。
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) ⭐ 7,235 | 🐛 135 | 🌐 JavaScript | 📅 2022-01-18：拥有超级流畅的 CSS3 变换和过渡效果的 jQuery 插件。
-* [bounce.js](https://github.com/tictail/bounce.js) ⭐ 6,160 | 🐛 12 | 🌐 CSS | 📅 2020-09-03：可以立刻创建有趣的 CSS3 动画。
+* [bounce.js](https://github.com/tictail/bounce.js) ⭐ 6,159 | 🐛 12 | 🌐 CSS | 📅 2020-09-03：可以立刻创建有趣的 CSS3 动画。
 * [move.js](https://github.com/visionmedia/move.js) ⭐ 4,693 | 🐛 36 | 🌐 JavaScript | 📅 2022-03-11：基于 CSS3 的 JavaScript 动画框架。
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) ⭐ 4,369 | 🐛 127 | 🌐 CSS | 📅 2021-11-23：免打扰式页面过渡 jQuery 库。<http://smoothstate.com/>
 * [textillate](https://github.com/jschr/textillate) ⭐ 3,657 | 🐛 68 | 🌐 JavaScript | 📅 2021-08-04：适用于 CSS3 文本动画的简单插件。
@@ -917,17 +917,17 @@ Web 数据可视化工具
 
 ## ES6
 
-* [Babel (Formerly 6to5)](https://github.com/babel/babel) ⭐ 43,983 | 🐛 769 | 🌐 TypeScript | 📅 2026-08-14：将 ES6+ 代码转换成原生 ES5。
-* [es6features](https://github.com/lukehoban/es6features) ⭐ 29,035 | 🐛 38 | 📅 2023-01-27：ECMAScript 6 特性概述。
+* [Babel (Formerly 6to5)](https://github.com/babel/babel) ⭐ 43,984 | 🐛 769 | 🌐 TypeScript | 📅 2026-08-16：将 ES6+ 代码转换成原生 ES5。
+* [es6features](https://github.com/lukehoban/es6features) ⭐ 29,036 | 🐛 38 | 📅 2023-01-27：ECMAScript 6 特性概述。
 * [Traceur compiler](https://github.com/google/traceur-compiler) ⚠️ Archived：ES6 特性转 ES5。包括 classes、generators、promises、destructuring patterns、default parameters 等。
 * [es6-features](https://github.com/rse/es6-features) ⭐ 6,159 | 🐛 33 | 🌐 HTML | 📅 2024-06-20：ECMAScript 6： 特性概述和比较。
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)：Compatibility tables 展示了各种平台上所有 ECMAScript 6 特性的支持程度。
 
 ## 静态页面生成器
 
-* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 65,926 | 🐛 427 | 🌐 TypeScript | 📅 2026-08-13：Facebook 出品的 React 驱动的静态网站生成器，以内容为中心网站的理想形态。
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 420 | 🌐 JavaScript | 📅 2026-08-15：React 驱动的静态网站生成器。
-* [Gridsome](https://github.com/gridsome/gridsome) ⭐ 8,472 | 🐛 581 | 🌐 JavaScript | 📅 2024-04-10：Vue 驱动的静态网站生成器。
+* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 65,932 | 🐛 427 | 🌐 TypeScript | 📅 2026-08-13：Facebook 出品的 React 驱动的静态网站生成器，以内容为中心网站的理想形态。
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 420 | 🌐 JavaScript | 📅 2026-08-15：React 驱动的静态网站生成器。
+* [Gridsome](https://github.com/gridsome/gridsome) ⭐ 8,473 | 🐛 581 | 🌐 JavaScript | 📅 2024-04-10：Vue 驱动的静态网站生成器。
 
 ## SDK
 
@@ -937,15 +937,15 @@ Web 数据可视化工具
 
 ## 大杂烩
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,464 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26：算法和数据结构的 JS 实现，包含详细解释和发散文章链接。
-* [ky](https://github.com/sindresorhus/ky) ⭐ 17,025 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-06：基于浏览器 Fetch 接口的小巧优雅的 HTTP 客户端。
-* [list.js](https://github.com/javve/list.js) ⭐ 11,212 | 🐛 201 | 🌐 JavaScript | 📅 2025-04-27：给表格、列表等众多 HTML 元素添加搜索、排序、过滤和自适应特性，零感知作用于已有的 HTML 。<http://www.listjs.com>
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,471 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26：算法和数据结构的 JS 实现，包含详细解释和发散文章链接。
+* [ky](https://github.com/sindresorhus/ky) ⭐ 17,026 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-06：基于浏览器 Fetch 接口的小巧优雅的 HTTP 客户端。
+* [list.js](https://github.com/javve/list.js) ⭐ 11,212 | 🐛 202 | 🌐 JavaScript | 📅 2025-04-27：给表格、列表等众多 HTML 元素添加搜索、排序、过滤和自适应特性，零感知作用于已有的 HTML 。<http://www.listjs.com>
 * [picturefill](https://github.com/scottjehl/picturefill) ⚠️ Archived：响应式图片显示插件，使浏览器支持 srcset、size 属性。
-* [survey.js](https://github.com/surveyjs/surveyjs) ⭐ 4,838 | 🐛 502 | 🌐 TypeScript | 📅 2026-08-14：一款 JavaScript 调查引擎。用 JSON 作为调查元数据和结果。<http://surveyjs.org/>
+* [survey.js](https://github.com/surveyjs/surveyjs) ⭐ 4,840 | 🐛 502 | 🌐 TypeScript | 📅 2026-08-14：一款 JavaScript 调查引擎。用 JSON 作为调查元数据和结果。<http://surveyjs.org/>
 * [mixitup](https://github.com/patrickkunka/mixitup) ⚠️ Archived：一款过滤和排序的插件。
 * [echo](https://github.com/toddmotto/echo) ⭐ 3,695 | 🐛 88 | 🌐 JavaScript | 📅 2026-02-13：利用 `data-*` 属性延迟加载图片。
 * [platform.js](https://github.com/bestiejs/platform.js) ⚠️ Archived：一个平台检测库，几乎适用于所有 JavaScript 平台。
-* [jquery-match-height](https://github.com/liabru/jquery-match-height) ⭐ 3,065 | 🐛 85 | 🌐 JavaScript | 📅 2018-08-24：一款响应式等高 jQuery 插件。
+* [jquery-match-height](https://github.com/liabru/jquery-match-height) ⭐ 3,060 | 🐛 85 | 🌐 JavaScript | 📅 2018-08-24：一款响应式等高 jQuery 插件。
 * [Array Explorer](https://github.com/sdras/array-explorer) ⭐ 2,609 | 🐛 31 | 🌐 JavaScript | 📅 2024-06-28 and [Object Explorer](https://sdras.github.io/object-explorer/)：帮助开发者选择哪一个原生 JavaScript 方法使用更佳。
 * [Idyll](https://github.com/idyll-lang/idyll) ⭐ 2,037 | 🐛 60 | 🌐 JavaScript | 📅 2023-02-04：用于创建探索式说明和互动故事文章。可以[插入 HTML 中](https://github.com/idyll-lang/idyll-embed) ⭐ 13 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-07.
 * [emoji-button](https://github.com/joeattardi/emoji-button) ⚠️ Archived：原生 JavaScript 表情包选择器组件。
@@ -980,4 +980,4 @@ Web 数据可视化工具
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
